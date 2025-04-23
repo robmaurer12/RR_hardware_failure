@@ -1,0 +1,1 @@
+Project for CS630 on round robin scheduling algorithm with some hardware failure in this computer system that generates periodic signals and sends them to the currently running process every 3 ticks. 
